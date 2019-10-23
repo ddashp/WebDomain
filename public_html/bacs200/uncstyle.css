@@ -1,0 +1,51 @@
+body {
+    background-color: darkslategrey;
+    color: azure;
+    font-size: 1.1em;
+}
+
+h1 {
+    color: coral;
+    text-align: center;
+    font-size: 38px;
+    text-decoration: underline;
+}
+
+
+.colorful {
+    color: orange;
+}
+
+h2 {
+    color: aqua;
+    font-size: 30px;
+
+}
+
+h3 {
+    font-size: 30px;
+    color: dodgerblue;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+button {
+    color: darkorchid;
+    background-color: chartreuse;
+    font-size: 22px;
+    float: inherit;
+}
+
+img {
+    box-shadow: 2px 2px 5px gray;
+}
+
+table {
+    color: fuchsia;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+a {
+    color: cornflowerblue;
+}
